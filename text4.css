@@ -1,0 +1,111 @@
+body {
+    margin: 0%;
+}
+
+.div {
+    width: 100%;
+    background-color: #7384BB;
+}
+
+#title {
+    text-align: center;
+    padding-top: 1rem;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#description {
+    text-align: center;
+}
+
+#survey-form {
+    width: 50%;
+    margin: auto;
+    background-color: #494848;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.hi {
+    margin-top: 1rem;
+    margin-left: 4rem;
+    color: aliceblue;
+    font-size: 1.2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hello {
+    width: 80%;
+    margin: auto;
+    outline: none;
+    border: none;
+    height: 1.4rem;
+}
+
+#dropdown {
+    width: 80%;
+    height: 1.4rem;
+    margin: auto;
+}
+
+.choice {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.choice p {
+    color: aliceblue;
+    font-size: 1.2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 0.8rem;
+}
+
+.choice label {
+    color: aliceblue;
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 0.2rem;
+}
+
+textarea {
+    max-width: 80%;
+    min-width: 80%;
+    min-height: 6rem;
+    margin: auto;
+    margin-bottom: 1.4rem;
+    margin-top: 1.2rem;
+}
+
+button {
+    width: 80%;
+    height: 2.5rem;
+    margin: auto;
+    margin-bottom: 3rem;
+    color: aliceblue;
+    background-color: #4064AD;
+    outline: none;
+    border: none;
+    font-size: 1.2rem;
+}
+
+.music {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: auto;
+}
+.music p {
+    color: aliceblue;
+    font-size: 1.2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 0.8rem;
+}
+
+.music label {
+    color: aliceblue;
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 0.2rem;
+}
